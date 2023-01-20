@@ -1,0 +1,49 @@
+home,score,away,pool
+Qatar,Match 1,Ecuador,A
+Senegal,Match 2,Netherlands,A
+Qatar,Match 18,Senegal,A
+Netherlands,Match 19,Ecuador,A
+Ecuador,Match 35,Senegal,A
+Netherlands,Match 36,Qatar,A
+England,Match 3,Iran,B
+USA,Match 4,Wales,B
+Wales,Match 17,Iran,B
+England,Match 20,USA,B
+Wales,Match 33,England,B
+Iran,Match 34,USA,B
+Argentina,Match 8,Saudi Arabia,C
+Mexico,Match 7,Poland,C
+Poland,Match 22,Saudi Arabia,C
+Argentina,Match 24,Mexico,C
+Poland,Match 39,Argentina,C
+Saudi Arabia,Match 40,Mexico,C
+Denmark,Match 6,Tunisia,D
+France,Match 5,Australia,D
+Tunisia,Match 21,Australia,D
+France,Match 23,Denmark,D
+Australia,Match 37,Denmark,D
+Tunisia,Match 38,France,D
+Germany,Match 11,Japan,E
+Spain,Match 10,Costa Rica,E
+Japan,Match 25,Costa Rica,E
+Spain,Match 28,Germany,E
+Japan,Match 43,Spain,E
+Costa Rica,Match 44,Germany,E
+Morocco,Match 12,Croatia,F
+Belgium,Match 9,Canada,F
+Belgium,Match 26,Morocco,F
+Croatia,Match 27,Canada,F
+Croatia,Match 41,Belgium,F
+Canada,Match 42,Morocco,F
+Switzerland,Match 13,Cameroon,G
+Brazil,Match 16,Serbia,G
+Cameroon,Match 29,Serbia,G
+Brazil,Match 31,Switzerland,G
+Serbia,Match 47,Switzerland,G
+Cameroon,Match 48,Brazil,G
+Uruguay,Match 14,Korea Republic,H
+Portugal,Match 15,Ghana,H
+Korea Republic,Match 30,Ghana,H
+Portugal,Match 32,Uruguay,H
+Ghana,Match 45,Uruguay,H
+Korea Republic,Match 46,Portugal,H
